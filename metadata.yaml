@@ -1,0 +1,30 @@
+_repo: Fan---The-Story-of-a-Young-Girl-s-Life_7827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: '"The novel Gan was originally published in 1892, under the pseudonym
+  of ''Henry Harford''. It now makes its apperance under the name of W.H. Hudson for
+  the first time."'
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Fan : The Story of a Young Girl''s Life'
+url: http://www.gutenberg.org/ebooks/7827
